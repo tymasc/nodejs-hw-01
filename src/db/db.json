@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "68742d31-b29b-4384-a54c-0ad3a463357d",
+    "name": "Inez Kutch",
+    "phone": "747.410.5316",
+    "email": "Bonnie_Mohr91@yahoo.com",
+    "job": "Investor Web Manager"
+  },
+  {
+    "id": "9c714fe2-7b3e-4b0b-bc86-e7cfe2d4e949",
+    "name": "Suzanne Bahringer",
+    "phone": "1-487-741-1811 x572",
+    "email": "Joanne40@gmail.com",
+    "job": "Corporate Configuration Officer"
+  },
+  {
+    "id": "9eec4a85-a85a-4c32-8858-774d652c5638",
+    "name": "Shelley Kohler",
+    "phone": "1-712-973-5174 x96184",
+    "email": "Micheal_White22@yahoo.com",
+    "job": "Senior Optimization Planner"
+  },
+  {
+    "id": "e855f2f5-1d1f-455e-b853-a393a37d5d40",
+    "name": "Andrew Lubowitz",
+    "phone": "346.673.2966 x9900",
+    "email": "Mathew28@yahoo.com",
+    "job": "District Optimization Supervisor"
+  }
+]
